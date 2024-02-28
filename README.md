@@ -1,8 +1,12 @@
 # Learn framer-motion
 
-original respository
+original respository:
 
 https://github.com/adrianhajdin/project_metaverse
+
+Figma:
+
+https://www.figma.com/file/EyzNoOFak1Nb1bBx9ZKI7E/Modern-UI%2FUX-Framer-Motion?node-id=0%3A1
 
 
 > This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
